@@ -1,3 +1,12 @@
-.main-title {
-    border: 4px solid black;
+.button {
+        color: #FAF4EA;
+        background-color: #819B57;
+        border: 2px solid #819B57;
+        border-radius: 8px;
+        cursor: pointer;
+}
+
+.button:hover {
+    color: rgba(70, 89, 41, 1);
+        background-color: transparent;
 }
